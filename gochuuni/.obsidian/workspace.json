@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "b3df2d8075c0aee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a93f8e06402ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1878d7990d3010e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aecb5b2fdbfc64e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5eaf84097b1a35e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d023f47a7da177",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43c444254ac5e310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "578c01c98c8d10ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "950c11271ebac70b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "4e2c6df6063b3d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "3765a717ecbaf7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5590e67ec1576fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d829753e819a2ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fef313879094a83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d2d21f904929b974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eda8123b88923d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1878d7990d3010e",
+  "lastOpenFiles": [
+    "AWS Credentials.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Application Details (job search)/MaintainX/MaintainX.md",
+    "Application Details (job search)/MaintainX/Roles.md",
+    "Application Details (job search)/MaintainX/Integration Developer.md",
+    "Application Details (job search)/Genesys/Genesys.md",
+    "Application Details (job search)/MaintainX",
+    "Application Details (job search)/CMiC",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/3. GENERIC PRINCIPLE - LOOSE COUPLING.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/2. Factory Pattern.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/1. Singleton Pattern.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/0. Introduction.md",
+    "Concepts/OOP/Design Patterns/Design Patterns.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/6. Dependency Inversion Principle.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/2. The Single Responsibility Principle.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/3. Open Closed Principle.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/1. SOLID Principle.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/5. Interface Segregation Principle.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/4. The Liskov Substitution Principle.md",
+    "Concepts/OOP/OOP CONCEPTS.md",
+    "Concepts/Data Structures/LinkedList/Singly/Javascript.md",
+    "Concepts/Data Structures/LinkedList/Singly/Java.md",
+    "Technology/React/Drag and Drop.md",
+    "Concepts/Accessibility/WCAG Accessibility 2.1.md",
+    "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
+    "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE/examtopics.md",
+    "Communication skills/Vinh Giang/Ms.md",
+    "Communication skills/Vinh Giang/Contextual Confidence.md",
+    "Communication skills/Vinh Giang",
+    "Communication skills",
+    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES",
+    "Concepts/OOP/Design Patterns In Typescript",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017164615.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017175531.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017175312.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165936.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165823.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165558.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165401.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165343.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165022.png",
+    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017164824.png",
+    "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE",
+    "Technology/AWS/Certified Cloud Practitioner/8. Security",
+    "Untitled.canvas"
+  ]
+}
