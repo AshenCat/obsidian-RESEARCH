@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a93f8e06402ae3",
+        "id": "f8d6885f39bb37d8",
         "type": "tabs",
         "children": [
           {
-            "id": "a1878d7990d3010e",
+            "id": "ce5d782c50cf9bf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Application Details (job search)/MaintainX/Integration Developer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Application Details (job search)/MaintainX/Integration Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Application Details (job search)/MaintainX/Integration Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Application Details (job search)/MaintainX/Integration Developer.md"
+              }
             }
           },
           {
@@ -156,18 +164,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1878d7990d3010e",
+  "active": "ce5d782c50cf9bf8",
   "lastOpenFiles": [
+    "Application Details (job search)/MaintainX/Interview prep.md",
+    "Application Details (job search)/MaintainX/MaintainX.md",
+    "Application Details (job search)/MaintainX/Integration Developer.md",
+    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/3. GENERIC PRINCIPLE - LOOSE COUPLING.md",
+    "Concepts/Data Structures/Data Structures.md",
+    "Technology/React/Drag and Drop.md",
+    "2023-03-01.md",
     "AWS Credentials.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Application Details (job search)/MaintainX/MaintainX.md",
     "Application Details (job search)/MaintainX/Roles.md",
-    "Application Details (job search)/MaintainX/Integration Developer.md",
     "Application Details (job search)/Genesys/Genesys.md",
     "Application Details (job search)/MaintainX",
     "Application Details (job search)/CMiC",
-    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/3. GENERIC PRINCIPLE - LOOSE COUPLING.md",
     "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/2. Factory Pattern.md",
     "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/1. Singleton Pattern.md",
     "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/0. Introduction.md",
@@ -182,12 +194,8 @@
     "Concepts/OOP/OOP CONCEPTS.md",
     "Concepts/Data Structures/LinkedList/Singly/Javascript.md",
     "Concepts/Data Structures/LinkedList/Singly/Java.md",
-    "Technology/React/Drag and Drop.md",
     "Concepts/Accessibility/WCAG Accessibility 2.1.md",
     "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
-    "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE/examtopics.md",
-    "Communication skills/Vinh Giang/Ms.md",
-    "Communication skills/Vinh Giang/Contextual Confidence.md",
     "Communication skills/Vinh Giang",
     "Communication skills",
     "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES",
