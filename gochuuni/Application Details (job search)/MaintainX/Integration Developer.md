@@ -36,7 +36,7 @@ The Integration Developer plays a critical role in our post-sales team by collab
 
 **Bonus if you have:**
 
-- Experience with ERPs such as SAP, Oracle, JD Edwards, NetSuite, Microsoft Dynamics AX, Sage Intaact ,and other 3rd party integrations.
+- Experience with ERPs such as SAP, Oracle, JD Edwards, NetSuite, Microsoft Dynamics AX, Sage Intaact, and other 3rd party integrations.
 - Experience in the manufacturing industry.
 - Knowledge of IoT Sensors, Historians, SCADA, PLCs and Industry 4.0 Technologies.
 - Familiar with Integration Tools such as Workato, Tray.io, and/or Zapier. 
