@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d6885f39bb37d8",
+        "id": "40046afd9ebd7c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5d782c50cf9bf8",
+            "id": "a0bf00eb0f2139a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Details (job search)/MaintainX/Interview prep.md",
+                "file": "Application Details (job search)/Genesys/Genesys.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Genesys"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application Details (job search)/MaintainX/Interview prep.md",
+                "file": "Application Details (job search)/Genesys/Genesys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Genesys"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Details (job search)/MaintainX/Interview prep.md",
+                "file": "Application Details (job search)/Genesys/Genesys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Genesys"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Details (job search)/MaintainX/Interview prep.md"
-              }
+                "file": "Application Details (job search)/Genesys/Genesys.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Genesys"
             }
           },
           {
@@ -143,8 +161,12 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -164,54 +186,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce5d782c50cf9bf8",
+  "active": "a0bf00eb0f2139a6",
   "lastOpenFiles": [
-    "Application Details (job search)/MaintainX/Integration Developer.md",
-    "Application Details (job search)/MaintainX/Interview prep.md",
-    "Application Details (job search)/MaintainX/MaintainX.md",
     "Application Details (job search)/MaintainX/Roles.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/3. GENERIC PRINCIPLE - LOOSE COUPLING.md",
-    "Concepts/Data Structures/Data Structures.md",
-    "Technology/React/Drag and Drop.md",
+    "Application Details (job search)/MaintainX/MaintainX.md",
+    "Application Details (job search)/MaintainX/Interview prep.md",
+    "Application Details (job search)/MaintainX/Integration Developer.md",
+    "Technology/React/1 - LEARNING ROADMAP.md",
+    "linkedin/Articles/Web server.md",
+    "linkedin/Articles/images/Pasted image 20230317095435.png",
     "2023-03-01.md",
-    "AWS Credentials.md",
+    "Technology/React/Drag and Drop.md",
+    "Technology/React/Interview Prep.md",
+    "Technology/linux/Basic Linux Commands.md",
+    "Technology/React-Native/Untitled.md",
     "Untitled.md",
-    "Untitled 1.md",
+    "Pasted image 20240130143350.png",
+    "AWS Credentials.md",
+    "Technology/Rust/_08shadowing.md",
+    "Technology/Rust/_07constants.md",
+    "Technology/Rust/_06Variables.md",
+    "Technology/Rust/_05Borrowing and References.md",
+    "Technology/Rust/_04Ownership.md",
+    "Technology/Rust/_0000Stack and Heap.md",
+    "Technology/Rust/_03Functions.md",
+    "Technology/Rust/_02Compound Data Types.md",
+    "Technology/Rust/_000Commands.md",
+    "Technology/Rust/_01Primitive Data Types.md",
+    "Technology/Unity/Tutorial/RPG/Architectural overview.md",
+    "Technology/Rust",
+    "You Really Got Me.mp3",
     "Application Details (job search)/Genesys/Genesys.md",
+    "Technology/Unity/Tutorial/RPG",
+    "Pasted image 20240130142639.png",
+    "Technology/Unity/Tutorial",
+    "Technology/Unity",
+    "Concepts/Accessibility/media/Pasted image 20231013151440.png",
+    "Concepts/Accessibility/WCAG Accessibility 2.1.md",
+    "Technology/React-Native",
     "Application Details (job search)/MaintainX",
     "Application Details (job search)/CMiC",
-    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/2. Factory Pattern.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/1. Singleton Pattern.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns/0. Introduction.md",
-    "Concepts/OOP/Design Patterns/Design Patterns.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/6. Dependency Inversion Principle.md",
     "Concepts/OOP/Design Patterns In Typescript/Section 2 - Design Patterns",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/2. The Single Responsibility Principle.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/3. Open Closed Principle.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/1. SOLID Principle.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/5. Interface Segregation Principle.md",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES/4. The Liskov Substitution Principle.md",
-    "Concepts/OOP/OOP CONCEPTS.md",
-    "Concepts/Data Structures/LinkedList/Singly/Javascript.md",
-    "Concepts/Data Structures/LinkedList/Singly/Java.md",
-    "Concepts/Accessibility/WCAG Accessibility 2.1.md",
     "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf",
-    "Communication skills/Vinh Giang",
-    "Communication skills",
-    "Concepts/OOP/Design Patterns In Typescript/Section 1 - SOLID PRINCIPLES",
-    "Concepts/OOP/Design Patterns In Typescript",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017164615.png",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017175531.png",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017175312.png",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165936.png",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165823.png",
     "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165558.png",
-    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165401.png",
-    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165343.png",
-    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017165022.png",
-    "Technology/AWS/Certified Cloud Practitioner/images/Pasted image 20231017164824.png",
-    "Technology/AWS/Certified Cloud Practitioner/QUESTIONAIRE",
-    "Technology/AWS/Certified Cloud Practitioner/8. Security",
     "Untitled.canvas"
   ]
 }
